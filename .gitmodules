@@ -1,0 +1,3 @@
+[submodule "themes/blueberry"]
+	path = themes/blueberry
+	url = https://github.com/luanacarrijo/hugo-blueberry
